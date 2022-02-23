@@ -27,4 +27,4 @@ while ans == "y":
     
 else: 
     while True:
-        print("Eat shit idiot! ", end = "")
+        print("Eat shit idiot! ", end = ""
