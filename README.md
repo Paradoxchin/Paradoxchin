@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Paradoxchin
 - 👀 I’m interested in ... Game Developing
-- 🌱 I’m currently learning ... Python  
+- 🌱 I’m currently learning ... Python and C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Discord: Paradoxchin288 #4913
 
